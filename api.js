@@ -161,6 +161,6 @@ async function deleteNote(id, button) {
     } finally {
         button.disabled = false;
     }
-    
+
 }
 
